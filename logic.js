@@ -7,6 +7,6 @@ function call() {
 }
 
 function f1() {
-    const y = 1
-    console.log(y)
+    const x = 1
+    console.log(x)
 }
