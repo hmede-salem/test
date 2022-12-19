@@ -5,5 +5,3 @@ function printHello() {
 function call() {
     console.log("call hmede")
 }
-
-function f1() {}
